@@ -1,0 +1,32 @@
+.div-image {
+  display: grid;
+  justify-items: center;
+  align-items: center;
+}
+
+.profile-description {
+  display: flex;
+  width: 490px;
+  height: 60px;
+  margin-top: -30px;
+  background-color: grey;
+  border-radius: 20px;
+  /* opacity: 0.5; */
+}
+
+.profile-image {
+  margin: 5px;
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+}
+
+.profile-name {
+  margin: 5px;
+  overflow: hidden;
+}
+
+img {
+  height: 20rem;
+  border-radius: 20px;
+}
